@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>p2</title>
+</head>
+
+<body>
+    <header id="header_top">
+        <h1>Recursos interactius aplicats</h1>
+        <h2>Pablo Martí</h2>
+    </header>
+    <nav>
+        <a href="#projectes">Projectes</a>
+        <a href="#recursos">Recursos</a>
+        <a href="">UN</a>
+        <a href="#contact">Contact</a>
+
+    </nav>
+    <main>
+        <section id="projectes">
+            <h3>Projectes</h3>
+            <img src="img/vector.svg" alt="">
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis temporibus rem odio deserunt distinctio quam, nemo in quia eaque magni labore culpa impedit aliquam sit modi, repudiandae doloremque eum laboriosam!</p>
+            <img src="img/cachorro.jpeg" alt="">
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officiis, quos, perferendis. Quas fuga necessitatibus, ipsum ipsa quaerat dolores aspernatur, vero temporibus quam quod similique, soluta provident, sint repudiandae expedita consequuntur!</p>
+            <img src="img/cachorro.png" alt="">
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis temporibus rem odio deserunt distinctio quam, nemo in quia eaque magni labore culpa impedit aliquam sit modi, repudiandae doloremque eum laboriosam!</p>
+            <img src="img/cachorro.gif" alt="">
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officiis, quos, perferendis. Quas fuga necessitatibus, ipsum ipsa quaerat dolores aspernatur, vero temporibus quam quod similique, soluta provident, sint repudiandae expedita consequuntur!</p>
+            <h4><a href="#header_top">top</a></h4>
+        </section>
+        <section id="recursos">
+            <h3>Recursos</h3>
+            <ul>
+                <li><a href="https://www.freecodecamp.org/">Freecodecamp</a></li>
+                <li><a href="https://developer.mozilla.org/es/"></a></li> <!-- significa lista li-->
+
+            </ul>
+        </section>
+    </main>
+
+</body></html>
